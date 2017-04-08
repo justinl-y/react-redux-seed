@@ -1,6 +1,6 @@
 # React-Redux Seed Project
 
-## Creates a seed react-redux project. Configured for React as of 07/07/2017 and contains the following features:
+Creates a seed react-redux project. Configured for React as of 07/07/2017 and contains the following features:
 
 - ESLint using AirBnB style guide
 - Babel for es2015+
