@@ -11,4 +11,4 @@
 - Run `yarn`
 
 #### Development Server
-- Run `npm start`
+- Run `yarn start`
